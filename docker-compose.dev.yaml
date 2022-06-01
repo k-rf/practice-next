@@ -68,10 +68,10 @@ services:
         target: /commandhistory
       - type: volume
         source: backend_vscode_extensions
-        target: ${REMOTE_BACKEND_HOME}/.vscode-server/extensions
+        target: ${BACKEND_REMOTE_HOME}/.vscode-server/extensions
 
 networks:
-  template_web_app_network:
+  practice_next_network:
     external: true
 
 volumes:

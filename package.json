@@ -1,7 +1,7 @@
 {
-  "name": "template_web_app",
-  "version": "1.0.1",
-  "description": "The web application template.",
+  "name": "practice_next",
+  "version": "0.0.0",
+  "description": "The practice Next.",
   "license": "MIT",
   "private": true,
   "scripts": {

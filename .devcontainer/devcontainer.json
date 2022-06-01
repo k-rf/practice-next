@@ -1,6 +1,6 @@
 {
-  "name": "template_web_app_root",
-  "remoteUser": "template_web_app_root",
+  "name": "practice_next_root",
+  "remoteUser": "practice_next_root",
   "dockerComposeFile": "../docker-compose.dev.yaml",
   "service": "root",
   "postAttachCommand": "yarn install",
